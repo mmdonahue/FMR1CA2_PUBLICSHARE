@@ -1,0 +1,14 @@
+read_in_coords_box
+fix_3d_coords
+loadEeg8
+fftbandpass
+loadSpikes_ajm
+Readtfile
+ratemap_RM_group_area_cz_v2
+equalPlot_RM_step2_cz
+AssembleEqual_s5_v2
+ReadFileList
+getactivebins
+RM_RateOverlap_cz
+RM_SpatialCorr_cz_v2_ER
+RM_PVCorr_cz
