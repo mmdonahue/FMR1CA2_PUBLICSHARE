@@ -1,0 +1,8 @@
+tight_subplot
+get_2d_ratemap
+get_spatial_info
+get_spatial_sparsity
+get_2d_pfs_v2
+match
+same_axes
+cellfun_emptyCells
